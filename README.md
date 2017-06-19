@@ -1,2 +1,2 @@
-# rocketium
+# Rocketium
 Rocketium Homepage
